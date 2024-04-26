@@ -1,0 +1,119 @@
+body{
+text-align: center;
+background-color: rgb(250, 250, 250);
+color: rgb(221, 208, 200);
+}
+
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    color: #0A162B;
+ }
+
+
+h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #0A162B;
+    font-size: 22px;
+    line-height: 1;
+ }
+  
+
+.card-blue {
+    background-color: #4c5e80;
+    border-radius: 10px;
+    box-shadow: 434343;
+    padding : 15px;
+    width : 650px;
+    margin : 30px auto;
+    line-height: 2;
+    box-shadow:10px 10px 20px rgb(120, 120, 120);
+}
+
+.texte-colonne {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    list-style: none;
+    padding-left: none;
+ }
+
+
+#image-profil {
+    text-align: center;
+    border-radius: 50%;
+    width : 200px;
+    height : 200px;
+    object-fit: cover;
+    object-position: 0% 70%;
+}
+
+
+#linkedin-button {
+    border-radius: 5px;
+    padding: 12px;
+    width : 200px;
+    height : 50px;
+    font-weight: 800;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    object-fit: cover;
+    object-position: 0% 70%;
+    background-color:rgb(221, 208, 200) ;
+    color: #0A162B;*
+}
+
+
+#linkedin-button:hover {
+background-color: #0A162B;
+color: rgb(221, 208, 200);
+}
+
+
+#list-inline li {
+display: inline;
+margin: 20px;
+font-size: 40px;
+line-height: 5px;
+}
+
+#network-button {
+color:rgb(221, 208, 200) ;
+
+
+}
+
+#network-button:hover {
+background-color:none;
+color: #0A162B;
+}
+
+
+.texte-ligne {
+font-size: 20px;
+font-weight: 800;
+color:rgb(221, 208, 200);
+font-family: "Roboto", sans-serif;
+list-style: none;
+}
+
+.texte-ligne li {
+display: inline;
+padding: 30px;
+}
